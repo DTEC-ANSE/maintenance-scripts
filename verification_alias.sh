@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# AUTHOR:  Anthony GELIBERT
+# VERSION: 1.1.0
+# DATE:    02/07/2015
+
 DOMAINS=( ace-aircareengineering.fr \
 ace-aircareengineering.info \
 ace-aircareengineering.eu \
